@@ -1,4 +1,4 @@
-## **REP-0003:** Transaction testing - Delete  
+## **REP-0004:** Transaction testing - Delete  
 
 > **Summary:** Verify that inventory item is deleted successfully.  <br>
 

@@ -1,4 +1,4 @@
-## **REP-0002:** Transaction Reports testing - View  
+## **REP-0003:** Transaction Reports testing - View  
 
 > **Summary:** Verify that reports made is viewable successfully.  <br>
 

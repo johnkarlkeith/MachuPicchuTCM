@@ -1,4 +1,4 @@
-## **REP-0006:** Transaction Reports testing - Export XLSX  
+## **REP-0007:** Transaction Reports testing - Export XLSX  
 
 > **Summary:** Verify that a transaction report can be exported as XLSX successfully.  <br>
 

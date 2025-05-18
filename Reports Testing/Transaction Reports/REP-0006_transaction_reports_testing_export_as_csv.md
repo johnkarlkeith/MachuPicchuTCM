@@ -1,4 +1,4 @@
-## **REP-0005:** Transaction Reports testing - Export as CSV  
+## **REP-0006:** Transaction Reports testing - Export as CSV  
 
 > **Summary:** Verify that a transaction report can be exported as CSV successfully.  <br>
 

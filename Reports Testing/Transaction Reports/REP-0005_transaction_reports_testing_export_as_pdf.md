@@ -1,4 +1,4 @@
-## **REP-0004:** Transaction Reports testing - Export as PDF  
+## **REP-0005:** Transaction Reports testing - Export as PDF  
 
 > **Summary:** Verify that a transaction report can be exported as PDF successfully.  <br>
 
