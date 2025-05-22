@@ -13,7 +13,7 @@ Scenario 1
  |----|------|-------------------| 
  |  1 | Navigate to the Login page                      | Login form with email and password fields is displayed.   | 
  |  2 | Enter valid email and password credentials      | Input is accepted and validated.   | 
- |  3 | Click the “Log In” button                       | User is redirected to the appropriate dashboard with a success notification (if applicable).   |  
+ |  3 | Click the “Sign-in” button                       | User is redirected to the appropriate dashboard with a success notification.   |  
 
 **Post-conditions:**  
 
