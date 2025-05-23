@@ -2,18 +2,21 @@
 
 > **Summary:** Verify that icons, texts, and other elements are displayed properly.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:**  
+
+ - Application is accessible.  
+ - User has required permissions (if applicable).
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 | Navigate to the page/module.                | Page loads successfully.  | 
+ |  2 | Inspect all icons and visual elements.      | Icons are visible and aligned properly.   | 
+ |  3 | Check textual content and labels.           | Texts are readable and grammatically correct.   |
+ |  4 | Verify layout responsiveness and spacing.   | Layout adjusts properly and spacing is consistent.   |  
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - All UI elements are confirmed to be properly displayed.  
+ - No display errors or layout breaks found.  

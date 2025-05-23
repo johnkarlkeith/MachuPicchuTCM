@@ -2,18 +2,20 @@
 
 > **Summary:** Verify that toast notifications are working successfully.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:**
+
+ - User is logged in.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 | Save a product, user, or category successfully.             | A toast appears at the bottom/top corner of the screen with success message.   | 
+ |  2 | Wait without interaction.                                   | Toast disappears automatically after a few seconds.   | 
+ |  3 | Perform another valid action (e.g., delete item).           | Another toast appears indicating success.   | 
+ |  4 | Trigger multiple toasts consecutively (if possible).                      | Toasts are stacked or queued correctly without overlap or freezing.   |  
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Toast notifications provide short, effective feedback for actions.  
+
